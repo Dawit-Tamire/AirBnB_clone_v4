@@ -158,7 +158,7 @@ Make an API for the AirBnB
 
 ## Authors
 * Dawit Muluneh - [Github](https://github.com/Dawit-Tamire) 
-
+* Jemimah Mmboga - [Github](https://github.com/mmbogajemimah)
 
 ## License
 Public Domain. No copy write protection.
